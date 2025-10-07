@@ -59,3 +59,4 @@ endmodule
 ![sanjay6](https://github.com/user-attachments/assets/dc4079b2-ca6f-42ee-bbd1-66bbae16d4c0)
 
 **RESULTS**
+hence verified using quartrus software
